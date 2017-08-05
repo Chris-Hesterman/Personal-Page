@@ -117,7 +117,7 @@ h1 {
   }
 }
 
-@media all and (orientation: portrait) {
+@media only screen and (orientation: portrait) {
   .box1 {
     margin-bottom: 60%;
   }
@@ -407,7 +407,7 @@ h1 {
   }
 }
 
-@media all and (orientation: portrait) {
+@media only screen and (orientation: portrait) {
   .pageFour {
     padding-bottom: 25%;
   }
